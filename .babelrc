@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "syntax-class-properties",
+    "syntax-trailing-function-commas",
+    "transform-arrow-func-binding"
+  ]
+}
